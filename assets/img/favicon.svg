@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-labelledby="faviconTitle">
+  <title id="faviconTitle">369.GD</title>
+  <rect width="32" height="32" fill="#0B0B0F"/>
+  <rect x="1" y="1" width="30" height="30" fill="none" stroke="#F3F0E7" stroke-opacity=".25"/>
+  <rect x="5" y="19" width="6" height="6" fill="#F15A2B"/>
+  <rect x="13" y="13" width="6" height="6" fill="#F3F0E7"/>
+  <rect x="21" y="7" width="6" height="6" fill="#F15A2B"/>
+  <rect x="5" y="5" width="2" height="2" fill="#F3F0E7" opacity=".55"/>
+  <rect x="25" y="25" width="2" height="2" fill="#F3F0E7" opacity=".55"/>
+</svg>
